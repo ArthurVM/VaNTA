@@ -1,6 +1,6 @@
 VaNTA
 -----
-v0.1.1 Jan-2019 by Arthur V. Morris
+v0.1.1 May 2020 by Arthur V. Morris
 
 Automated discovery and analysis of Tandem Repeats.
 

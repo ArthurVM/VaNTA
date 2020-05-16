@@ -15,9 +15,9 @@ This pipeline was developed to automate the process of VNTR discovery. A descrip
 Dependancies
 ---------------------
 Python Dependencies:
-Python3
-Biopython
-argsparse
+- Python3
+- Biopython
+- argsparse
 
 Other Dependencies:
 - This pipeline uses Tandem Repeats Finder and EMBOSS-water.

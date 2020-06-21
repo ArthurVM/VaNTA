@@ -1,3 +1,5 @@
+AUTHORS NOTE : REPO IN WORKS. UNFINISHED.
+
 VaNTA
 -----
 v0.1.1 May 2020 by Arthur V. Morris

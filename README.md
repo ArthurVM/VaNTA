@@ -23,7 +23,7 @@ Python Dependencies:
 
 Other Dependencies:
 - This pipeline uses Tandem Repeats Finder and EMBOSS-water.
-- Tandem Repeats Finder (Benson, 1999) can be downloaded from https://tandem.bu.edu/trf/trf.html
+- Tandem Repeats Finder (Benson, 1999) can be downloaded from https://github.com/Benson-Genomics-Lab/TRF
 - EMBOSS-water (part of the EMBOSS: The European Molecular Biology Open Software Suite (2000) Rice, Longden and Bleasby) can be downloaded from http://emboss.sourceforge.net/
     
 Notes on input:
